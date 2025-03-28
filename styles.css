@@ -1,0 +1,25 @@
+body {
+    font-family: "Roboto";
+}
+.header {
+    background-color: #1f2937;
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+    justify-content: center;
+}
+#logo {
+    margin: auto;
+    font-size: 24px;
+    color: #f9faf8
+}
+.hlink {
+    display: flex;
+    gap: 20px;
+    flex-flow: row nowrap;
+    margin: auto;
+    font-size: 18px;
+    color: #e5e7eb
+}
